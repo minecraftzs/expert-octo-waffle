@@ -1,2 +1,1 @@
-# expert-octo-waffle
-A free Minecraft hacked client code by mczs
+A New and open source Minecraft hacked client "Winter" code by mczs
